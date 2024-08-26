@@ -1,0 +1,51 @@
+﻿Term,Definition,Simplified Definition
+Abandon,To elect not to exercise or offset a long option position.,Choosing not to exercise or close a long option position.
+Accommodation Trading,Non-competitive trading entered into by a trader to assist with illegal trades or create tax losses.,Trading to help someone else with illegal trades or to create fake tax losses.
+Accumulator,"A contract where the seller delivers a commodity at set dates and prices, with a cancellation price.","A contract for delivering a commodity at scheduled times and prices, with a cancellation trigger."
+Active Fund,"A private fund executing 200+ swaps per month, not a third-party subaccount.",A fund that makes many swaps each month and isn’t a third-party account.
+Actuals,"The physical or cash commodity, as opposed to a futures contract.","The real commodity or cash, not a futures contract."
+Aggregation,Combining all positions of a trader to determine reporting and compliance.,Summing up all a trader’s positions to check rules and limits.
+Agricultural Commodity,Commodities related to farming or derived from living organisms.,"Products from farming or living organisms, used for food, shelter, or fiber."
+Allowances,Discounts or premiums for different grades or locations of a commodity.,Price adjustments for different grades or locations of a commodity.
+American Option,An option that can be exercised any time before or on the expiration date.,An option that can be exercised at any time before it expires.
+Anonymous Bidding,Market structure where bidders' identities are hidden.,Bidding where who is buying or selling is not revealed.
+Approved Delivery Facility,Authorized place for delivering commodities on futures contracts.,A designated place where commodities can be delivered for futures contracts.
+Arbitrage,Buying and selling identical contracts in different markets to profit from price discrepancies.,Profiting by buying and selling the same contracts in different markets when prices vary.
+Arbitration,A less formal way of resolving disputes compared to courts.,A way to settle disputes without going to court.
+Artificial Price,"A futures price affected by manipulation, not reflecting true supply and demand.",A manipulated futures price that doesn’t show the real market conditions.
+Asian Option,An option whose payoff is based on the average price of the asset during its life.,An option where payout depends on the average price of the asset over time.
+Ask,The price level at which an offer is made.,The price at which someone is willing to sell.
+Assignable Contract,A contract that allows the holder to transfer rights to a third party.,A contract that can be transferred to someone else.
+Assignment,Designation of an option writer required to fulfill the contract when exercised.,The process of assigning someone to fulfill an option contract when exercised.
+Associated Person (AP),An individual who solicits or manages orders for futures or commodity trading.,A person who handles or supervises trading orders for futures or commodities.
+At-the-Market,An order to buy or sell a contract at the best available price.,An order to buy or sell immediately at the current market price.
+At-the-Money,When an option's strike price is the same as the current market price of the underlying asset.,An option where the strike price equals the current price of the asset.
+Audit Trail,"Record of trading information including brokers, terms, and times of trades.",Detailed record of all trading activity and participants.
+Automatic Exercise,An option provision that exercises automatically if in-the-money by a specified amount.,An option that will be exercised automatically if it’s profitable by a set amount.
+Back Months,Futures months other than the nearest or current one.,Delivery months in futures contracts that are not the closest upcoming ones.
+Back Office,"Department handling settlement, delivery, and regulatory procedures.",The part of a company that manages trade settlement and compliance.
+Back pricing,Fixing a commodity price in advance based on futures market prices.,Setting a commodity price in advance based on future market prices.
+Back Spread,"A delta-neutral ratio spread buying more options than sold, profitable if volatility increases.","A strategy where more options are bought than sold, benefiting from rising volatility."
+Backwardation,A market condition where futures prices are lower for distant delivery months.,When futures prices are lower for later dates compared to near-term dates.
+Banging the Close,See Marking the Close.,(Refer to the term Marking the Close for details.)
+Banker's Acceptance,A draft accepted by a bank guaranteeing payment.,"A draft guaranteed by a bank for payment, often used in trade."
+Basis,Difference between spot price and nearest futures contract price.,The gap between the current price and the futures contract price.
+Basis Grade,The standard grade of a commodity used in a futures contract.,The standard quality of a commodity for futures contracts.
+Basis Point,"A change in the yield of a debt security, equal to 1/100 of one percent.","A measurement of change in interest rates, equal to 0.01%."
+Basis Quote,Offer of a cash commodity in terms of difference from a futures price.,Pricing a cash commodity relative to a futures contract price.
+Basis Risk,Risk from the difference in basis between establishing and lifting a hedge position.,The risk of changes in the price difference between cash and futures contracts.
+Basis Swap,A swap based on the difference between futures and spot prices.,A swap that settles based on the difference between futures and spot prices.
+Bear,One who expects a decline in prices.,A person who predicts that prices will go down.
+Bear Market,A market characterized by declining prices over months or years.,A market where prices are falling over a long period.
+Bear Market Rally,A temporary increase in prices during a bear market.,A short-term rise in prices while the overall market is falling.
+Bear Spread,(1) Options strategy with buying and selling different strike prices. (2) Futures strategy selling nearby and buying deferred.,(1) An options strategy with different strike prices. (2) A futures strategy to profit from falling prices while limiting losses.
+Bear Vertical Spread,See Bear Spread.,(Refer to Bear Spread for details.)
+Bermuda Option,An exotic option that can be exercised on predetermined dates.,An option that can be exercised only on specific dates during its life.
+Bespoke Swap,A highly customized swap tailored to a customer’s needs.,A custom-made swap designed for specific needs.
+Beta (Beta Coefficient),A measure of a stock or portfolio’s risk compared to the market.,A gauge of how much a stock or portfolio’s returns move relative to the overall market.
+Bid,An offer to buy a specific quantity of a commodity at a stated price.,The price someone is willing to pay to buy.
+Bid-Ask Spread,The difference between the bid price and the ask price.,The gap between the buying price and the selling price.
+Binary Option,An option with a fixed payout or nothing based on an outcome.,An option that pays a set amount or nothing at all based on a specific outcome.
+Black-Scholes Model,A model for pricing options developed by Fischer Black and Myron Scholes.,A formula used to determine the price of options.
+Blind Auction,An auction where bids are submitted without seeing others’ offers.,An auction where you don’t see other bids before submitting your own.
+Block Trade,(1) Large trade negotiated off-exchange and executed on-exchange. (2) Large swap exempt from real-time reporting.,(1) A big trade done off and then on an exchange. (2) A large swap reported later.
